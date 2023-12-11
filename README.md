@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abasaheb
 - 👀 I’m interested in learning new twchnologies 
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m working as a Data engineer in Banking domain
+- 💞️ I’m looking to collaborate on Data Engineering Tools and Technologies...
 - 📫 How to reach me abasaheb.bhingardeve36@gmail.com
 
 <!---
